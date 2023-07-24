@@ -118,6 +118,7 @@ fi
 BASH_COMMAND_TO_EXECUTE="${ML_ENV_FIX_COMMAND}; ${MEGALINTER_SCAN_COMMAND}"
 if [ "${VERBOSE}" == "1" ]; then
   echo "About to run the following scan command (also setting -x): ${BASH_COMMAND_TO_EXECUTE}"
+  echo "i added this"
   set -x
 fi
 ## run bash command
