@@ -8,6 +8,10 @@
       "!.automation/**"
     ]
   },
+  "scripts": {
+    "test": "standard",
+    "format": "standard --fix"
+  },
   "dependencies": {
     "@cspell/dict-medicalterms": "^3.0.0",
     "markdown-table-formatter": "^1.4.0"
