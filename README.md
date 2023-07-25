@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD013 MD033 MD041 -->
 <!-- header-intro-start -->
 <!-- header-intro-end -->
-
+LOL
 <!-- header-logo-start -->
 <div align="center">
   <a href="https://megalinter.io" target="blank" title="Visit MegaLinter Web Site">
