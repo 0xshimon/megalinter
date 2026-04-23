@@ -85,7 +85,7 @@
     "open": "^8.4.0",
     "optionator": "^0.9.1",
     "prompts": "^2.4.2",
-    "uuid": "^8.3.2",
+    "uuid": "^14.0.0",
     "which": "^2.0.2",
     "yeoman-environment": "^3.8.0",
     "yeoman-generator": "^5.4.2",
